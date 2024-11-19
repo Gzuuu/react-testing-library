@@ -1,10 +1,26 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+# React Tests 🧪
+
+**React Tests** é um projeto focado na criação de testes para um aplicativo já existente, utilizando o **React Testing Library**. O objetivo principal foi garantir 100% de cobertura de código através de testes automatizados.
+
+## 🧑‍💻 Instalação
+
+1. Clone o repositório:  
+   git clone https://github.com/Gzuuu/react-testing-library.git  
+
+2. Navegue até a pasta do projeto:  
+   cd react-testing-library  
+
+3. Instale as dependências:  
+   npm install  
+
+4. Execute os testes:  
+   npm test  
+
+Se desejar, você também pode rodar o projeto localmente (mas lembre-se de que os testes foram o único foco):  
+   npm start  
+
+## 📂 Observações
+
+- **Nada do código foi criado por mim**, apenas os testes para cobrir a aplicação já existente.  
+- Todos os arquivos modificados por mim estão localizados dentro da pasta `src/tests`.  
